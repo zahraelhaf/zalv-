@@ -1,0 +1,6 @@
+{
+  "name": "Pattern Journal Studio",
+  "description": "Professional journal and planner generator with custom repeat patterns, commercial KDP/Etsy export, PDF proofing, and project portability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
